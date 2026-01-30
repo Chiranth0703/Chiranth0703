@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **pschiranth42@gmail.com**😊😊
 🌱 Currently learning: Spring Boot, Docker, GitHub Actions
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chiranth P.S.) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pschiranth42@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiranth-p-s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pschiranth42@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
