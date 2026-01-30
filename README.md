@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Chiranth P.S.
-**Java Full Stack Developer | Exploring DevOps & Cloud Technologies**
+**Java Backend Developer | Exploring DevOps & Cloud Technologies**
 
-Email Me 👉 ✉️ **pschiranth42@gmail.com**😊😊
+Email Me 👉 ✉️ **pschiranth42@gmail.com**😊
 
-🔭 Currently working on: Java Backend Projects & DevOps fundamentals
-🌱 Currently learning: Spring Boot, Docker, GitHub Actions
+<p>🔭 Currently working on: Java Backend Projects & DevOps fundamentals</p>
+<p>🌱 Currently learning: Spring Boot, Docker, GitHub Actions</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiranth-p-s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pschiranth42@gmail.com) 
